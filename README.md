@@ -130,6 +130,9 @@ file.txt
 <img width="960" height="564" alt="Screenshot 2026-11-05 230334" src="https://github.com/user-attachments/assets/34584327-7027-4e9e-89ae-4e3d589bf0a8" />
 <img width="960" height="564" alt="Screenshot 2026-11-05 230351" src="https://github.com/user-attachments/assets/d2596be7-d108-49a7-a65a-e8ae232011f1" />
 <img width="960" height="564" alt="Screenshot 2026-11-05 230343" src="https://github.com/user-attachments/assets/a63e20b0-37a4-4de9-b544-332b1bbc03c3" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 155510" src="https://github.com/user-attachments/assets/010de04b-638b-46e8-9e90-9849bfcc1297" />
+<img width="960" height="564" alt="Screenshot 2026-11-02 155445" src="https://github.com/user-attachments/assets/04c4956f-d451-4ccf-a05d-5208c2c8355c" />
+
 
 
 
